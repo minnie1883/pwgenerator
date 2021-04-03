@@ -6,7 +6,7 @@ Create a randomly generated password that meets certain criteria.
 
 ## User Story
 
-[Click Here for Password Generator] (https://minnie1883.github.io/pwgenerator/)
+Password Generator [Click](https://minnie1883.github.io/pwgenerator/) Here
 
 ## Mock-Up
 
